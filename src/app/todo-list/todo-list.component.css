@@ -1,0 +1,9 @@
+.header{
+    text-align: center;
+}
+.border-line{
+    background-color: none;
+    border: 1px solid black;
+    padding-bottom: 200px;
+    border-radius: 5px;
+}
